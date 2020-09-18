@@ -8,7 +8,7 @@ Thanks!!
 Above Most Used Languages card develop [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats).
 Thanks!!  
 
-[Blog(misc. notes)](http://blog.livedoor.jp/deile/)
+[Blog(misc. notes and Written in japanese only.)](http://blog.livedoor.jp/deile/)
 <!--
 **K-MountainBook/K-MountainBook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

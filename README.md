@@ -1,10 +1,12 @@
 Pythonを少し弄っただけのリポジトリが永久凍土に保存され1000年後に恥を晒す羽目になった男。
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=K-MountainBook)](https://github.com/ryo-ma/github-profile-trophy)<br>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=K-MountainBook&layout=compact&theme=tokyonight)
+
 This torophy icon develop [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy).
 Thanks!!
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=K-MountainBook&layout=compact&theme=tokyonight)
 This card develop [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats).
 Thanks!!
 

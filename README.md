@@ -1,3 +1,5 @@
+In a word, <div style="font-size:200%>" >Otaku!!</div>  
+
 PythonでHelloWorld!!を書いただけのリポジトリが永久凍土で1000年眠る羽目になり、1000年後に恥を晒す事が決定した男。  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=K-MountainBook&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)  

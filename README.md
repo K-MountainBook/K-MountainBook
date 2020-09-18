@@ -6,8 +6,8 @@ Thanks!!
 
 # Summary
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=K-MountainBook&count_private=true&show_icons=true&theme=monokai)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=K-MountainBook&layout=compact&theme=monokai)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=K-MountainBook&count_private=true&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=K-MountainBook&layout=compact&theme=tokyonight)
 
 <!--
 **K-MountainBook/K-MountainBook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

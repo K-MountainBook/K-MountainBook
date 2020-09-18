@@ -3,8 +3,8 @@ PythonでHelloWorld!!を書いただけのリポジトリが永久凍土で1000�
 [![trophy](https://github-profile-trophy.vercel.app/?username=K-MountainBook&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=K-MountainBook&layout=compact&theme=tokyonight)
 
-torophy icon develop [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy).  
-Most Used Languages card develop [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats).  
+"Torophy icon" developer is [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy).  
+"Most Used Languages card" developer is [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats).  
 Thanks!!  
 
 [Blog(misc. notes and Written in japanese only.)](http://blog.livedoor.jp/deile/)

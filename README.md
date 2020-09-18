@@ -6,7 +6,6 @@ Thanks!!
 
 # Summary
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=K-MountainBook&count_private=true&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=K-MountainBook&layout=compact&theme=tokyonight)
 
 <!--

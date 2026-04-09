@@ -1,6 +1,6 @@
 PythonでHelloWorld!!を書いただけのリポジトリが永久凍土で1000年眠る羽目になり、1000年後に恥を晒す事が決定した男。  
 
-[![trophy](https://github-profile-trophy-alpha-blue.vercel.app/?username=K-MountainBook&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-alpha-blue.vercel.app/?username=K-MountainBook&theme=onedark&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=K-MountainBook&layout=compact&theme=tokyonight)

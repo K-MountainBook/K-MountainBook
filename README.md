@@ -1,15 +1,16 @@
 PythonでHelloWorld!!を書いただけのリポジトリが永久凍土で1000年眠る羽目になり、1000年後に恥を晒す事が決定した男。  
 
-- [![trophy](https://github-profile-trophy-alpha-blue.vercel.app/?username=K-MountainBook&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<!--
+[![trophy](https://github-profile-trophy-alpha-blue.vercel.app/?username=K-MountainBook&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=K-MountainBook&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=K-MountainBook&layout=compact&theme=tokyonight)
 
 "Torophy icon" developer is [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy).  
 "Most Used Languages card" developer is [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats).  
 Thanks!!  
 
 [Blog(misc. notes and Written in japanese only.)](http://blog.livedoor.jp/deile/)
-<!--
+
 **K-MountainBook/K-MountainBook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
